@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ecila7290/movie_app/static/css/main.c77312b7.chunk.css",
+    "main.js": "/ecila7290/movie_app/static/js/main.4f181567.chunk.js",
+    "main.js.map": "/ecila7290/movie_app/static/js/main.4f181567.chunk.js.map",
+    "runtime-main.js": "/ecila7290/movie_app/static/js/runtime-main.1aac387c.js",
+    "runtime-main.js.map": "/ecila7290/movie_app/static/js/runtime-main.1aac387c.js.map",
+    "static/js/2.670a5eaa.chunk.js": "/ecila7290/movie_app/static/js/2.670a5eaa.chunk.js",
+    "static/js/2.670a5eaa.chunk.js.map": "/ecila7290/movie_app/static/js/2.670a5eaa.chunk.js.map",
+    "index.html": "/ecila7290/movie_app/index.html",
+    "precache-manifest.6d7177c74ad07b281508e2d93b3127a1.js": "/ecila7290/movie_app/precache-manifest.6d7177c74ad07b281508e2d93b3127a1.js",
+    "service-worker.js": "/ecila7290/movie_app/service-worker.js",
+    "static/css/main.c77312b7.chunk.css.map": "/ecila7290/movie_app/static/css/main.c77312b7.chunk.css.map",
+    "static/js/2.670a5eaa.chunk.js.LICENSE.txt": "/ecila7290/movie_app/static/js/2.670a5eaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aac387c.js",
+    "static/js/2.670a5eaa.chunk.js",
+    "static/css/main.c77312b7.chunk.css",
+    "static/js/main.4f181567.chunk.js"
+  ]
+}
